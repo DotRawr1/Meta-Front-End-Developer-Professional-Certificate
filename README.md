@@ -7,6 +7,6 @@
 ## [Course 2 - Programming with Javascript](https://github.com/DotRawr1/Meta-Front-End-Developer-Professional-Certificate/tree/main/2%20-%20Programming%20with%20Javascript)
 - ### [Week 1 - Intro to Javascript](https://github.com/DotRawr1/Meta-Front-End-Developer-Professional-Certificate/tree/main/2%20-%20Programming%20with%20Javascript/Week-1)
 - ### [Week 2 - The Building Blocks of a Program](https://github.com/DotRawr1/Meta-Front-End-Developer-Professional-Certificate/tree/main/2%20-%20Programming%20with%20Javascript/Week-2)
-- ### [Week 3 - Programming Paradigms]
-- ### [Week 4 - Testing]
-- ### [Week 5 - End of Course Assessment]
+- ### [Week 3 - Programming Paradigms](https://github.com/DotRawr1/Meta-Front-End-Developer-Professional-Certificate/tree/main/2%20-%20Programming%20with%20Javascript/Week-3)
+- ### [Week 4 - Testing](https://github.com/DotRawr1/Meta-Front-End-Developer-Professional-Certificate/tree/main/2%20-%20Programming%20with%20Javascript/Week-4)
+- ### [Week 5 - End of Course Assessment](https://github.com/DotRawr1/Meta-Front-End-Developer-Professional-Certificate/tree/main/2%20-%20Programming%20with%20Javascript/Week-5)
